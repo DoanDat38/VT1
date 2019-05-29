@@ -1,0 +1,3 @@
+rootProject.name = 'VT1'
+
+include ':app'
